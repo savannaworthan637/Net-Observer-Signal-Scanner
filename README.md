@@ -1,4 +1,4 @@
-# Net-Observer/Signal-Scanner - API & Network Performance Tracker  
+# Net-Observer/Signal - API & Network Performance Tracker  
 
 Net-Observer/Signal-Scanner is a lightweight tool for tracking API response times and monitoring network performance.
 
